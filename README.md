@@ -1,0 +1,1 @@
+This example creates a simple webpage with an input field for the user to enter their birthdate, a button to trigger the calculation, and a paragraph to display the result. The JavaScript code calculates the age based on the entered birthdate and displays the result on the webpage. The CSS file provides basic styling to improve the visual appearance of the calculator.
